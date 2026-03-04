@@ -1,0 +1,31 @@
+[0.965s] Invoking command in '/uolstore/home/users/mn22df/ros2_ws/src/lab2': PYTHONPATH=/uolstore/home/users/mn22df/ros2_ws/build/lab2/prefix_override:/uolstore/home/users/mn22df/ros2_ws/install/lab2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/lab2 build --build-base /uolstore/home/users/mn22df/ros2_ws/build/lab2/build install --record /uolstore/home/users/mn22df/ros2_ws/build/lab2/install.log --single-version-externally-managed
+[1.168s] running egg_info
+[1.169s] writing ../../build/lab2/lab2.egg-info/PKG-INFO
+[1.174s] writing dependency_links to ../../build/lab2/lab2.egg-info/dependency_links.txt
+[1.179s] writing entry points to ../../build/lab2/lab2.egg-info/entry_points.txt
+[1.183s] writing requirements to ../../build/lab2/lab2.egg-info/requires.txt
+[1.186s] writing top-level names to ../../build/lab2/lab2.egg-info/top_level.txt
+[1.195s] reading manifest file '../../build/lab2/lab2.egg-info/SOURCES.txt'
+[1.199s] writing manifest file '../../build/lab2/lab2.egg-info/SOURCES.txt'
+[1.202s] running build
+[1.202s] running build_py
+[1.206s] copying lab2/numeric_talker.py -> /uolstore/home/users/mn22df/ros2_ws/build/lab2/build/lib/lab2
+[1.211s] copying lab2/numeric_listener.py -> /uolstore/home/users/mn22df/ros2_ws/build/lab2/build/lib/lab2
+[1.217s] running install
+[1.217s] running install_lib
+[1.222s] copying /uolstore/home/users/mn22df/ros2_ws/build/lab2/build/lib/lab2/numeric_talker.py -> /uolstore/home/users/mn22df/ros2_ws/install/lab2/lib/python3.10/site-packages/lab2
+[1.228s] copying /uolstore/home/users/mn22df/ros2_ws/build/lab2/build/lib/lab2/numeric_listener.py -> /uolstore/home/users/mn22df/ros2_ws/install/lab2/lib/python3.10/site-packages/lab2
+[1.240s] byte-compiling /uolstore/home/users/mn22df/ros2_ws/install/lab2/lib/python3.10/site-packages/lab2/numeric_talker.py to numeric_talker.cpython-310.pyc
+[1.246s] byte-compiling /uolstore/home/users/mn22df/ros2_ws/install/lab2/lib/python3.10/site-packages/lab2/numeric_listener.py to numeric_listener.cpython-310.pyc
+[1.251s] running install_data
+[1.254s] copying launch/numeric_chatter.py -> /uolstore/home/users/mn22df/ros2_ws/install/lab2/share/lab2/launch
+[1.258s] running install_egg_info
+[1.260s] removing '/uolstore/home/users/mn22df/ros2_ws/install/lab2/lib/python3.10/site-packages/lab2-0.0.0-py3.10.egg-info' (and everything under it)
+[1.271s] Copying ../../build/lab2/lab2.egg-info to /uolstore/home/users/mn22df/ros2_ws/install/lab2/lib/python3.10/site-packages/lab2-0.0.0-py3.10.egg-info
+[1.316s] running install_scripts
+[1.331s] Installing listener script to /uolstore/home/users/mn22df/ros2_ws/install/lab2/lib/lab2
+[1.334s] Installing numeric_listener script to /uolstore/home/users/mn22df/ros2_ws/install/lab2/lib/lab2
+[1.337s] Installing numeric_talker script to /uolstore/home/users/mn22df/ros2_ws/install/lab2/lib/lab2
+[1.340s] Installing talker script to /uolstore/home/users/mn22df/ros2_ws/install/lab2/lib/lab2
+[1.344s] writing list of installed files to '/uolstore/home/users/mn22df/ros2_ws/build/lab2/install.log'
+[1.404s] Invoked command in '/uolstore/home/users/mn22df/ros2_ws/src/lab2' returned '0': PYTHONPATH=/uolstore/home/users/mn22df/ros2_ws/build/lab2/prefix_override:/uolstore/home/users/mn22df/ros2_ws/install/lab2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/lab2 build --build-base /uolstore/home/users/mn22df/ros2_ws/build/lab2/build install --record /uolstore/home/users/mn22df/ros2_ws/build/lab2/install.log --single-version-externally-managed
